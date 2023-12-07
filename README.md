@@ -1,2 +1,2 @@
 # Projects 
-Repository for projects.
+Repository for java projects.
